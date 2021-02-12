@@ -3,8 +3,6 @@
 // Application for calculating costs and income
 https://raschitalochka-goit.netlify.app/ 
 
-https://smdeile.github.io/Roman-Myrhorodskyi_15.12.20/
-
 https://smdeile.github.io/menu-list-js/
 
 https://movie-serch-site-2020.netlify.app/
