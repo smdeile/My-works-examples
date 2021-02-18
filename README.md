@@ -8,6 +8,10 @@ https://raschitalochka-goit.netlify.app/
 
 https://smdeile.github.io/menu-list-js/
 
+Wether (React.js, react-router, redux, hooks, RestAPI)
+
+https://mawetha.netlify.app/
+
 // Search movies (React.js, React Router)
 
 https://movie-serch-site-2020.netlify.app/
