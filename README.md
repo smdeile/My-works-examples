@@ -4,7 +4,7 @@
 
 https://smdeile.github.io/menu-list-js/
 
-Wether (React.js, react-router, redux, hooks, RestAPI)
+Wether (React.js, react-router, redux, hooks, RestAPI, Local storage)
 
 https://mawetha.netlify.app/
 
