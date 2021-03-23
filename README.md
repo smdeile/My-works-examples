@@ -1,9 +1,5 @@
 # My-works-examples
 
-// Application for calculating costs and income (React.js, Node.js(PostgreSQL))
-
-https://raschitalochka-goit.netlify.app/ 
-
 // List menu React.js
 
 https://smdeile.github.io/menu-list-js/
