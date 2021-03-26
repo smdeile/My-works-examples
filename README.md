@@ -2,7 +2,7 @@
 
 // Base for sports clubs and their clients (React.js, Next.js, Redux, React-Bootstrap)
 
-https://app.wilive.fr/
+https://app.wilive.fr/signin
 
 // List menu React.js
 
